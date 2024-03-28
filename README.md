@@ -21,4 +21,6 @@ About 40,000 students results were evaluated by school. There are 3 main conclus
 
   2. The budget per capita gap between the minimum and maximum value ($578 and $655) is not a high number (see comment #14 per_school_capita). It does not seem to exist a relation between budget per capita and the quality of each school. In fact, the top number 1 school in quality, is Cabrera Highschool, with a budget per capita of $582. (see comment #27 spending ranges and #21.B top 5 schools)
      
-  4. The relationship between quality and type of school will be shown in Data Frame #30.B "type summary" It is showing that the Charter School average is 67% higher than District School
+  3. The relationship between quality and type of school will be shown in Data Frame #30.B "type summary" It is showing that the Charter School average is 67% higher than District School. Charter Schools perfom better t han District Schools. The difference between them are unkonwn (location, instructors profile, among others).
+
+
